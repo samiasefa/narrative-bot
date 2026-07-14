@@ -1,1 +1,8 @@
-{"cooldowns": {}, "dex_history": {}}
+{
+  "cooldowns": {
+    "binance:TAO:15m": 1784033597.3303266,
+    "binance:DOGE:15m": 1784033597.7667377,
+    "binance:PEPE:15m": 1784033598.3017592
+  },
+  "dex_history": {}
+}
