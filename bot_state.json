@@ -2,7 +2,9 @@
   "cooldowns": {
     "binance:TAO:15m": 1784033597.3303266,
     "binance:DOGE:15m": 1784033597.7667377,
-    "binance:PEPE:15m": 1784033598.3017592
+    "binance:PEPE:15m": 1784033598.3017592,
+    "binance:JASMY:15m": 1784063696.3189878,
+    "binance:FIL:5m": 1784063696.8233678
   },
   "dex_history": {}
 }
