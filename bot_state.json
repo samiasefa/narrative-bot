@@ -5,7 +5,10 @@
     "binance:PEPE:15m": 1784033598.3017592,
     "binance:JASMY:15m": 1784063696.3189878,
     "binance:FIL:5m": 1784063696.8233678,
-    "binance:AR:15m": 1784074399.4149451
+    "binance:AR:15m": 1784074399.4149451,
+    "binance:FLOKI:5m": 1784095169.382011,
+    "binance:NEAR:5m": 1784095169.744658,
+    "binance:DOGE:5m": 1784095170.1257834
   },
   "dex_history": {}
 }
