@@ -10,7 +10,8 @@
     "binance:NEAR:5m": 1784095169.744658,
     "binance:DOGE:5m": 1784095170.1257834,
     "binance:WLD:5m": 1784116658.1266909,
-    "binance:INJ:15m": 1784116658.797249
+    "binance:INJ:15m": 1784116658.797249,
+    "binance:ONDO:15m": 1784148125.3340724
   },
   "dex_history": {}
 }
