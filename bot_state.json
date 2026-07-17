@@ -3,7 +3,7 @@
     "binance:TAO:15m": 1784244462.2282786,
     "binance:DOGE:15m": 1784033597.7667377,
     "binance:PEPE:15m": 1784240951.8388762,
-    "binance:JASMY:15m": 1784296965.8008747,
+    "binance:JASMY:15m": 1784320350.3733253,
     "binance:FIL:5m": 1784236635.77879,
     "binance:AR:15m": 1784074399.4149451,
     "binance:FLOKI:5m": 1784095169.382011,
@@ -21,7 +21,8 @@
     "binance:NEAR:15m": 1784296965.4259367,
     "binance:SOL:15m": 1784296966.2251325,
     "binance:BONK:15m": 1784296966.683464,
-    "binance:AVAX:5m": 1784306791.2350786
+    "binance:AVAX:5m": 1784306791.2350786,
+    "binance:APT:5m": 1784320349.9271865
   },
   "dex_history": {}
 }
