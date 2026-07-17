@@ -16,7 +16,8 @@
     "binance:LINK:5m": 1784223974.660826,
     "binance:CFG:15m": 1784151611.6605496,
     "binance:ONDO:5m": 1784228708.4530318,
-    "binance:SKY:5m": 1784250161.0078607
+    "binance:SKY:5m": 1784250161.0078607,
+    "binance:SOL:5m": 1784278671.7821493
   },
   "dex_history": {}
 }
