@@ -24,7 +24,8 @@
     "binance:AVAX:5m": 1784306791.2350786,
     "binance:APT:5m": 1784320349.9271865,
     "binance:PEPE:5m": 1784392639.8701732,
-    "binance:PENDLE:15m": 1784410493.8600583
+    "binance:PENDLE:15m": 1784410493.8600583,
+    "binance:APT:15m": 1784417794.2884617
   },
   "dex_history": {}
 }
