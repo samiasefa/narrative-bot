@@ -22,7 +22,8 @@
     "binance:SOL:15m": 1784381840.9137003,
     "binance:BONK:15m": 1784296966.683464,
     "binance:AVAX:5m": 1784306791.2350786,
-    "binance:APT:5m": 1784320349.9271865
+    "binance:APT:5m": 1784320349.9271865,
+    "binance:PEPE:5m": 1784392639.8701732
   },
   "dex_history": {}
 }
