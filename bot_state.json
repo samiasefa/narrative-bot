@@ -26,7 +26,8 @@
     "binance:PEPE:5m": 1784392639.8701732,
     "binance:PENDLE:15m": 1784410493.8600583,
     "binance:APT:15m": 1784417794.2884617,
-    "binance:LINK:15m": 1784423468.1820672
+    "binance:LINK:15m": 1784423468.1820672,
+    "binance:TAO:5m": 1784475497.491749
   },
   "dex_history": {}
 }
