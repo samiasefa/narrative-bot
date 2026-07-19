@@ -17,7 +17,7 @@
     "binance:CFG:15m": 1784151611.6605496,
     "binance:ONDO:5m": 1784336774.8834093,
     "binance:SKY:5m": 1784250161.0078607,
-    "binance:SOL:5m": 1784278671.7821493,
+    "binance:SOL:5m": 1784423468.4982755,
     "binance:NEAR:15m": 1784296965.4259367,
     "binance:SOL:15m": 1784381840.9137003,
     "binance:BONK:15m": 1784296966.683464,
@@ -25,7 +25,8 @@
     "binance:APT:5m": 1784320349.9271865,
     "binance:PEPE:5m": 1784392639.8701732,
     "binance:PENDLE:15m": 1784410493.8600583,
-    "binance:APT:15m": 1784417794.2884617
+    "binance:APT:15m": 1784417794.2884617,
+    "binance:LINK:15m": 1784423468.1820672
   },
   "dex_history": {}
 }
