@@ -11,7 +11,7 @@
     "binance:DOGE:5m": 1784095170.1257834,
     "binance:WLD:5m": 1784116658.1266909,
     "binance:INJ:15m": 1784336774.5735495,
-    "binance:ONDO:15m": 1784678920.226274,
+    "binance:ONDO:15m": 1784701016.5237606,
     "binance:JASMY:5m": 1784151610.8763793,
     "binance:LINK:5m": 1784223974.660826,
     "binance:CFG:15m": 1784151611.6605496,
@@ -28,7 +28,8 @@
     "binance:APT:15m": 1784417794.2884617,
     "binance:LINK:15m": 1784423468.1820672,
     "binance:TAO:5m": 1784475497.491749,
-    "binance:BOME:5m": 1784573491.2620974
+    "binance:BOME:5m": 1784573491.2620974,
+    "binance:ARKM:15m": 1784701016.0290027
   },
   "dex_history": {}
 }
