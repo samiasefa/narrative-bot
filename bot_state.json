@@ -29,7 +29,8 @@
     "binance:LINK:15m": 1784423468.1820672,
     "binance:TAO:5m": 1784475497.491749,
     "binance:BOME:5m": 1784573491.2620974,
-    "binance:ARKM:15m": 1784701016.0290027
+    "binance:ARKM:15m": 1784701016.0290027,
+    "binance:CFG:5m": 1784719192.5992813
   },
   "dex_history": {}
 }
