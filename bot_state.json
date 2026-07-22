@@ -9,7 +9,7 @@
     "binance:FLOKI:5m": 1784095169.382011,
     "binance:NEAR:5m": 1784095169.744658,
     "binance:DOGE:5m": 1784095170.1257834,
-    "binance:WLD:5m": 1784116658.1266909,
+    "binance:WLD:5m": 1784738698.4232805,
     "binance:INJ:15m": 1784336774.5735495,
     "binance:ONDO:15m": 1784701016.5237606,
     "binance:JASMY:5m": 1784151610.8763793,
@@ -31,7 +31,9 @@
     "binance:BOME:5m": 1784573491.2620974,
     "binance:ARKM:15m": 1784701016.0290027,
     "binance:CFG:5m": 1784719192.5992813,
-    "binance:HNT:5m": 1784725031.020634
+    "binance:HNT:5m": 1784725031.020634,
+    "binance:AR:5m": 1784738698.847116,
+    "binance:SEI:5m": 1784738699.3714175
   },
   "dex_history": {}
 }
