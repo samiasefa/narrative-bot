@@ -30,7 +30,8 @@
     "binance:TAO:5m": 1784475497.491749,
     "binance:BOME:5m": 1784573491.2620974,
     "binance:ARKM:15m": 1784701016.0290027,
-    "binance:CFG:5m": 1784719192.5992813
+    "binance:CFG:5m": 1784719192.5992813,
+    "binance:HNT:5m": 1784725031.020634
   },
   "dex_history": {}
 }
