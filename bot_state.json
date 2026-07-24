@@ -40,7 +40,8 @@
     "binance:FET:5m": 1784877460.2930741,
     "binance:ARKM:5m": 1784877460.7614117,
     "binance:WIF:15m": 1784877462.169255,
-    "binance:FLOKI:15m": 1784877462.6289947
+    "binance:FLOKI:15m": 1784877462.6289947,
+    "binance:SUI:15m": 1784886246.8581183
   },
   "dex_history": {}
 }
