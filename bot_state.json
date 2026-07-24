@@ -33,7 +33,8 @@
     "binance:CFG:5m": 1784719192.5992813,
     "binance:HNT:5m": 1784725031.020634,
     "binance:AR:5m": 1784738698.847116,
-    "binance:SEI:5m": 1784807417.2209332
+    "binance:SEI:5m": 1784807417.2209332,
+    "binance:BONK:5m": 1784867518.6616518
   },
   "dex_history": {}
 }
