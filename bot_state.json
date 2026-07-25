@@ -44,7 +44,8 @@
     "binance:SUI:15m": 1784886246.8581183,
     "binance:WLD:15m": 1784983570.3577096,
     "binance:GRT:5m": 1784994192.3501043,
-    "binance:RENDER:5m": 1785016389.346871
+    "binance:RENDER:5m": 1785016389.346871,
+    "binance:RENDER:15m": 1785023880.8891947
   },
   "dex_history": {}
 }
