@@ -12,7 +12,7 @@
     "binance:WLD:5m": 1785688116.444673,
     "binance:INJ:15m": 1784855333.879252,
     "binance:ONDO:15m": 1785320282.3215573,
-    "binance:JASMY:5m": 1784151610.8763793,
+    "binance:JASMY:5m": 1785778179.3112535,
     "binance:LINK:5m": 1785679639.5147998,
     "binance:CFG:15m": 1785637659.0244186,
     "binance:ONDO:5m": 1785556141.1844246,
@@ -53,7 +53,8 @@
     "binance:SUI:5m": 1785111132.2114124,
     "binance:INJ:5m": 1785696075.4278638,
     "binance:SKY:15m": 1785637658.472567,
-    "binance:BOME:15m": 1785637660.1385365
+    "binance:BOME:15m": 1785637660.1385365,
+    "binance:WIF:5m": 1785778179.793107
   },
   "dex_history": {}
 }
