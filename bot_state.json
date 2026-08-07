@@ -55,7 +55,8 @@
     "binance:SKY:15m": 1785910361.0498998,
     "binance:BOME:15m": 1785637660.1385365,
     "binance:WIF:5m": 1785778179.793107,
-    "binance:FET:15m": 1785910360.7065244
+    "binance:FET:15m": 1785910360.7065244,
+    "binance:SEI:15m": 1786107707.957311
   },
   "dex_history": {}
 }
