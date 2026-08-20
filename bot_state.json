@@ -1,7 +1,7 @@
 {
   "cooldowns": {
     "binance:TAO:15m": 1787216173.00679,
-    "binance:DOGE:15m": 1787216173.5520875,
+    "binance:DOGE:15m": 1787238289.8181424,
     "binance:PEPE:15m": 1787173360.9483194,
     "binance:JASMY:15m": 1786549062.5676646,
     "binance:FIL:5m": 1786478996.192707,
@@ -11,7 +11,7 @@
     "binance:DOGE:5m": 1787232817.0685847,
     "binance:WLD:5m": 1786760366.575701,
     "binance:INJ:15m": 1787150047.8559327,
-    "binance:ONDO:15m": 1787144517.7726157,
+    "binance:ONDO:15m": 1787238289.337672,
     "binance:JASMY:5m": 1786879038.6724265,
     "binance:LINK:5m": 1787161807.0555842,
     "binance:CFG:15m": 1787035012.417589,
