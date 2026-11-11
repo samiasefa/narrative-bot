@@ -17,14 +17,14 @@
     "binance:CFG:15m": 1793832871.4692805,
     "binance:ONDO:5m": 1792273487.7540832,
     "binance:SKY:5m": 1793727027.5396488,
-    "binance:SOL:5m": 1793522375.7304738,
+    "binance:SOL:5m": 1794417636.98957,
     "binance:NEAR:15m": 1793969069.5668378,
     "binance:SOL:15m": 1793461847.1805983,
     "binance:BONK:15m": 1787291289.0526073,
-    "binance:AVAX:5m": 1794301863.6289306,
+    "binance:AVAX:5m": 1794417637.4290977,
     "binance:APT:5m": 1790906307.1121938,
     "binance:PEPE:5m": 1792720712.2160628,
-    "binance:PENDLE:15m": 1787625458.655686,
+    "binance:PENDLE:15m": 1794417637.9369397,
     "binance:APT:15m": 1793278734.169672,
     "binance:LINK:15m": 1793969070.3345604,
     "binance:TAO:5m": 1793875971.8599706,
@@ -55,10 +55,10 @@
     "binance:SKY:15m": 1789859948.32888,
     "binance:BOME:15m": 1792561752.529927,
     "binance:WIF:5m": 1789739464.876578,
-    "binance:FET:15m": 1793727027.8705,
+    "binance:FET:15m": 1794417638.534783,
     "binance:SEI:15m": 1792160173.8753185,
     "binance:THETA:15m": 1792386214.0768673,
-    "binance:GRT:15m": 1790112942.0039945
+    "binance:GRT:15m": 1794417638.9939554
   },
   "dex_history": {}
 }
